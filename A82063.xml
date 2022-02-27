@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of the Irish Army under the conduct and command of Generall Oneale, concerning Lieut General Crumwell, and the forces which are to be sent over from England; sent by an expresse from the city of Dublin, to the English marchants. With Prince Ruperts imperious message, concerning the Prince, and the Crown of England. And the Lord Inchiquins resolution touching the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82063</idno>
+            <idno type="STC">Wing D555</idno>
+            <idno type="STC">Thomason E550_23</idno>
+            <idno type="STC">ESTC R205653</idno>
+            <idno type="EEBO-CITATION">99864971</idno>
+            <idno type="PROQUEST">99864971</idno>
+            <idno type="VID">117204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of the Irish Army under the conduct and command of Generall Oneale, concerning Lieut General Crumwell, and the forces which are to be sent over from England; sent by an expresse from the city of Dublin, to the English marchants. With Prince Ruperts imperious message, concerning the Prince, and the Crown of England. And the Lord Inchiquins resolution touching the same.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill 16. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117204:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND RESOLUTION OF The Iriſh Army under the Conduct and Command OF Generall Oneale, Concerning Lieut General CRUMWEL,</p>
+            <p>
+               <hi>AND</hi> The Forces which are to be ſent over from <hi>England;</hi> Sent by an Expreſſe from the City of <hi>Dublin,</hi> to the Engliſh Marchants.</p>
+            <p>
+               <hi>WITH</hi> Prince <hi>Ruperts</hi> imperious <hi>Meſsage,</hi> concerning the <hi>Prince,</hi> and the Crown of <hi>England.</hi> And the Lord <hi>Inchiquins</hi> Reſolution touching the ſame.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. W.</hi> and are to be ſold at the Royall Exchange in Cornhill, <hi>Aprill</hi> 16. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117204:2"/>
+            <pb n="1" facs="tcp:117204:2"/>
+            <head>THE RESOLUTION Of the Iriſh Army concerning Lieut. Gen. CROMWEL</head>
+            <head type="sub">Touching His advance into that Kingdome: Sent by an Expreſſe from the City of Dublin, to ſeverall Marchants within the City of London.</head>
+            <p>BY an Expreſſe from the City of Dublin to ſe<g ref="char:EOLhyphen"/>verall Marchants reſiding here, it is advertized; That the Marqueſſe of Ormond, Generall Pre<g ref="char:EOLhyphen"/>ſton, the Earl of Clanaickerd, and the reſt of the Iriſh confederates; have no conſiderable field army, and the ſeverall Factions break out into high Differences; by reaſon of the falling off of the Lord Inchiquin, and Generall Owen Roe, who are reſolved not to fight a<g ref="char:EOLhyphen"/>gainſt Lieut<g ref="char:punc">▪</g>, Generall Crumwell, and the Engliſh ar<g ref="char:EOLhyphen"/>my,
+<pb n="2" facs="tcp:117204:3"/>which hath occaſioned Prince <hi>Rupert</hi> to repreſent a letter to the ſaid Lord <hi>Inchiquin,</hi> which was to this effect, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That He deſireth him to vſe his utmoſt endeavours, for the propagating of the preſent work in hand, in relation to the investing of his ſac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Majesty</hi> (as he is pleaſed to call the young titular King, <hi>Charles</hi> the ſecond) <hi>in all on his</hi> Engliſh, Iriſh, <hi>and</hi> Scottiſh Throne, <hi>and to en<g ref="char:EOLhyphen"/>deavour the reſtauration of him to its juſt Rights and Dignities, &amp;c.</hi>
+            </p>
+            <p>But his Lordſhip returned this anſwer, <hi>That he was reſolved to deſist from any further engagement against the parliament of <hi>England,</hi> or to be any wayes inſtrumen<g ref="char:EOLhyphen"/>tall, for the involving of bleeding <hi>England</hi> and <hi>Ireland,</hi> in another bloudy and domeſtique War; and that for the more apparent acquitting himſelf of that inhuman crime he declared that he was reſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lved to ſacrifice both life and fortunes, againſt all oppoſition whatſoever, that ſhould en<g ref="char:EOLhyphen"/>deavour the obſtruction of the peace and tranquility of that Nation.</hi>
+            </p>
+            <p>Inſomuch, that the difference between prince <hi>Rupert</hi> and his Lordſhip increaſeth, and the breach is like to grow wider before there can be any compoſure or re<g ref="char:EOLhyphen"/>conciliation. For Gen. <hi>Owen Roe</hi> is likewiſe fallen into a diſcontented againſt the Marq. of <hi>Ormond,</hi> who upon mature deliberation, in reference to his proceedings, and of the Engliſh Forces to be ſent over, under the conduct and command of Lieut. Generall <hi>Crumwell,</hi> the ſaid <hi>Owen Roe</hi> called a Councell of Officers, and after ſome time ſpent in debate of the preſent tranſa<g ref="char:EOLhyphen"/>ction of affaires, it was reſolved by the Councell, That two Letter ſhould be forthwith drawn up, the one to
+<pb n="3" facs="tcp:117204:3"/>be communicated to the parliament of England, the other to Colonell Jones, intimating. That if they will not moleſt, or cauſe to be moleſted, any of the Forces under his immediate command, in their quarters du<g ref="char:EOLhyphen"/>ring the time prefixed for their reſidence in that king<g ref="char:EOLhyphen"/>dom, that then he will not iagage againſt any of their Forces, neither will he give any aſſiſtance to the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Ormond, Preſton,</hi> or any other parties who ſhall engage againſt them, provided, that they will not any wayes trouble his quarters, upon the advance of the Engliſh Army over, during the time of his re<g ref="char:EOLhyphen"/>ſidence as aforeſaid.</p>
+            <p n="2">2 That he may have ſafe paſſage into Spain with ſuch forces as ſhall bee deſigned for that Kingdome, &amp;c.</p>
+            <p>By which meanes and revolt, divers begin to decline from engagement, and to deſert the prince; ſo that it is hoped that Nation will ſoon be reduced to the po<g ref="char:EOLhyphen"/>wer and obedience of parliament, and a period put to her languiſhing ane bleeding condition. <hi>Ormond</hi> is in a very ſad condition, and dare not take the field, his men moulter away apace.</p>
+            <p>The <hi>Expedition, the Tyger,</hi> and another of the Parlia<g ref="char:EOLhyphen"/>ments ſhips are got to <hi>Ayrs</hi> point within a few leagus of Leverpool, to ſecure the Coaſt of <hi>Ireland</hi> on that ſide. We hear of ſome action at Sea, between the two Navies, which ſpeaks the parliament Victors, and that they have ſunk and taken 9 of the princes ſhips: for the further particulars whereof, I ſhall refer you to my next.</p>
+            <closer>
+               <dateline>Briſtol <date>9 April 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:117204:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt of the ſevent of this inſtant, we have received certain information of the further pro<g ref="char:EOLhyphen"/>ceedings of the Princes Fleet, and that they have divi<g ref="char:EOLhyphen"/>ded the Navy into three Squadrons; the firſt com<g ref="char:EOLhyphen"/>manded by Prince <hi>Rupert,</hi> who is to guard the Iriſh Seas and to attend the motion of Col. <hi>Jores</hi> Governor of the City of <hi>Dublin</hi> for the Parliament of <hi>England;</hi> the ſecond, by Prince <hi>Maurice,</hi> who with 20 Sayle is to attend the motion of Captain <hi>Moulton</hi> in the We<g ref="char:EOLhyphen"/>ſtern Riding; the third by Captain <hi>Jerden,</hi> deſigned for the Lands-End, to attend the motion and coming out of the parliaments Summers Fleet; all which, bough numerous in ſhipping, yet weakly man'd, and dare not engage, unleſſe with great advantage, the Sea<g ref="char:EOLhyphen"/>mon begin to moulter in their affections, and ſhew a great diſlike of the proceedings of their Officers; for divers who have eſcaped at their coming into Creekes, do declare, That they begin to languiſh for their late perfidious Revolt<g ref="char:punc">▪</g> and would fain make a recantation<g ref="char:punc">▪</g> and that if once they could have the opportunity to come aſhore, are unanimouſly reſolved to deſert the princes ſervice: however if they cannot purchaſe their liberty one way, they are reſolved to ſaciliate it ano<g ref="char:EOLhyphen"/>the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that upon a neer Engagement with the Parlia<g ref="char:EOLhyphen"/>ments Fleet, it is believed they will take the ſame reſo<g ref="char:EOLhyphen"/>lution as the Land Souldiers have formerly done and (upon good articles and conditions) deliver up their Officers to mercy, &amp;c.</p>
+            <p>Some action hath lately hapned between divers Mar<g ref="char:EOLhyphen"/>chants<g ref="char:punc">▪</g> and prince <hi>Maurice</hi> his ſhips, and much hurt done on both ſides; but after ſome diſpute, and ſeverall boardings, the Victory fell to the Marchant Men of
+<pb n="5" facs="tcp:117204:4"/>War, who ſunk two of the revolted ſhips, wherin was 50 piece of Ordnance, and chaſed the reſt above ſeven Leagues, but by reaſon of a ſtorm<g ref="char:punc">▪</g> they wer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forced to deſiſt from further purſuit, and to leave them to the mercy of the raging Billowes.</p>
+            <p>Theſe ſhips are ſaid to be bound for <hi>London, Ly<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Yarmouth,</hi> who hold conjunction together for the ſafety and preſervation of their Marchan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ize.</p>
+            <p>Since which time we have received other joyfull in<g ref="char:EOLhyphen"/>telligence from the <hi>Mauri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian</hi> Fleet; and it is likewiſe confirmed by two men of War who laſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight caſt anchor in this Harbour: they purport, that upon their croſſing the Weſtern Channell, they w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſet upon by ſix of the princes ſhips, who gave them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> broad ſides, but were anſwered again with another Volley from the Sons of <hi>Mars,</hi> and after a hot conflict, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> came vict<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orious, killing many of their men <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing the reſt, ſome taking their purſuit without a Maſt o<g ref="char:EOLhyphen"/>thers without a ſtern, and their Sayls <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. But by reaſon of the diſtempers of the Sea, and the dangerous breaches they had received from the Ene<g ref="char:EOLhyphen"/>mies round ſhot, were forced to ſtrike in here for re<g ref="char:EOLhyphen"/>fuge, for the repairing and new rigging of their ſhips. Thoſe who have been in action with them, report them to be as cowardly an Enemy, as ever engaged upon the Neptune Seas, and that 30 of the parliaments ſhips wel man'd, will (in all probability) ſoon expell the fury of 60 of theirs.</p>
+            <p>We heare that Capt. <hi>Moulton</hi> is in a defenſive po<g ref="char:EOLhyphen"/>ſture, and that he ſayles ſometimes within ſight of the princes Fleet, but declines engagement at preſent.</p>
+            <p>We likewiſe hear of a great inſurrection ariſing in prince <hi>Ruperts</hi> Squadron, the manner thus: two Sea<g ref="char:EOLhyphen"/>man ſpeaking ſome words touching the unjuſtneſſe of
+<pb n="6" facs="tcp:117204:5"/>their cauſe, and the unlawfulneſſe of their engagement, being over heard, were brought before the prince, and (according to Martial Law) were adjudged to die<g ref="char:punc">▪</g> and to be hang'd up at the main Maſt, but the Seamen hea<g ref="char:EOLhyphen"/>ring thereof, unanimouſly reſcued him from the po<g ref="char:EOLhyphen"/>wer of the Marſhal; other Captains were ſummoned, to ſee the princes tyranny performed, but their Mariners likewiſe joyntly reſolved not to execute the ſame.</p>
+            <closer>
+               <dateline>Bristoll <date>7. Aprill, 1949.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Major Gen. <hi>Laughorn,</hi> Col. <hi>Poyer</hi> and <hi>Powell,</hi> are ad<g ref="char:EOLhyphen"/>ludged by a Councell of War to die, and have recei<g ref="char:EOLhyphen"/>ved Sentence to be ſhot to death. Whereupon Mrs. <hi>Laughorn,</hi> wife to Major Gen. <hi>Laughorn,</hi> preſented a petition to the Court Marſhal, imploring their mercy to her husband, and that this one unadviſed act of his might not cauſe all his former eminent ſervices to be forgotten; and being the laſt that ingaged in this unfor<g ref="char:EOLhyphen"/>tunate action, it is ſuppoſed, that if the Sentence of any be remitted, he will be ſpared.</p>
+            </postscript>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>THEO: JENNINGS.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
